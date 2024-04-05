@@ -29,4 +29,4 @@ font-family: 'Chakra Petch', sans-serif;
     width: 100%;
     font-size: large;}
 
-.titulo-principal span{color: (--verde);}
+.titulo-principal span{color: var(--verde);}
