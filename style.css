@@ -41,10 +41,10 @@ font-family: 'Chakra Petch', sans-serif;
     font-size: 18px;
     align-items: center;
     width: 100%
-    border-bottom 4px solid var(--botao-ativo);
-    border-left 4px solid var(--botao-ativo);
-    border-right 4px solid var(--botao-ativo);
-    border-top none;  
+    border:bottom: 4px solid var(--botao-ativo);
+    border-left: 4px solid var(--botao-ativo);
+    border-right: 4px solid var(--botao-ativo);
+    border-top: none;  
 }
 .botoes {
     display: block;
